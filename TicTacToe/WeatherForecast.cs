@@ -13,10 +13,12 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 
+/*
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
     }
+    */
 
     public void Configure(IApplicationBuilder app, Microsoft.AspNetCore.Hosting.IWebHostEnvironment environment) 
     {

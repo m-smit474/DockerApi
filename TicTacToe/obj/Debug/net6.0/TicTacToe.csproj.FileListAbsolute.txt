@@ -25,3 +25,7 @@ C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\obj\Debug\net6.0\TicTacToe.d
 C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
 C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
 C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\smith\Documents\GitHub\DockerApi\TicTacToe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
